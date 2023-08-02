@@ -7,6 +7,8 @@ anypoint:
   username:       "vinayakbt4"
   password:       "Vbt@1234"
   
+  #orgid: "28e53bd4-a49d-47b8-a028-830172b92b3c"
+  
 # Instead of these properties use HTTP Headers in your Request for EnvironmentId and OrganizationID
 ## If you uncomment you can use them as value properties
 # X-ANYPNT-ORG-ID:         "7e11118-f11e-400b-af02-941117a009" 
